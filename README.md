@@ -13,7 +13,6 @@ Amazon Textract: Amazon Textract is a machine learning (ML) service that automat
 
 References:
 
-Project Article : https://www.linkedin.com/pulse/extracting-text-from-image-document-using-lambda-s3-amazon-k-janani
+Project Article :https://www.linkedin.com/pulse/extracting-text-from-image-document-using-lambda-s3-amazon-bikki-siruc/?trackingId=sWZ7F8aZT6OFkQH7AO7rMw%3D%3D
 
 
-Video Link: https://youtu.be/ml8LtCFiseI
